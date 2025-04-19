@@ -5,7 +5,7 @@ Hello World! I'm Chanitha Abeygunawardena :D
 > 16 y/o undergraduate • Olympiad Medalist • Software Engineer • STEM Educator
 
 # About Me
-- 🥉🏅 **2× Medalist** – Southeast Asian International Mathematical Olympiad (SEAMO), representing Sri Lanka
+- 🥉🏅 **2× Medalist** – Southeast Asian Mathematical Olympiad (SEAMO), representing Sri Lanka
 
 - 🎓 **University Undergraduate at 16** – BEng (Hons) in Software Engineering @ Westminster, UK (via IIT, Sri Lanka)
 
