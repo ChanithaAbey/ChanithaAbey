@@ -14,7 +14,7 @@
   - Amazon: *Programming with Java*
   - SEAMO: Bronze Award 2020
   - SEAMOX: Merit Award 2021
-  - LYC Academic Excellence Gold Awards
+  - LYC | CAIE: Academic Excellence Gold Awards
 
 - 💼 **Experience** -
   - Freelance Web Developer, Graphic Designer, Video Editor and Consultant
