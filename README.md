@@ -23,11 +23,16 @@ Hello World! I'm Chanitha Abeygunawardena :D
 # Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/751367218771787786) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanitha.abey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCP6oQeSEatz_LZKUuG4iKJg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chanitha.abey22@gmail.com) 
 
+# GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ChanithaAbey&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chanithaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chanithaa&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanithaa&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ChanithaAbey&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ChanithaAbey&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithaAbey&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ChanithaAbey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+---
+[![](https://visitcount.itsvg.in/api?id=ChanithaAbey&icon=2&color=1)](https://visitcount.itsvg.in)
