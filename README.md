@@ -12,6 +12,9 @@
 - 📜 **Certifications (Completed and Currently Pursuing)** –  
   - HarvardX: *CS109x – Machine Learning and AI with Python*  
   - Amazon: *Programming with Java*
+  - SEAMO: Bronze Award 2020
+  - SEAMOX: Merit Award 2021
+  - LYC Academic Excellence Gold Awards
 
 - 💼 **Experience** -
   - Freelance Web Developer, Graphic Designer, Video Editor and Consultant
