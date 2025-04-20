@@ -14,7 +14,7 @@
   - Amazon: *Programming with Java*
 
 - 💼 **Experience** -
-  - Freelance Web Developer, Graphic Designer and Consultant
+  - Freelance Web Developer, Graphic Designer, Video Editor and Consultant
   - Senior STEM Examiner @ Anphaema International (IGCSE Physics & Chemistry)
 
 
