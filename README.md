@@ -13,6 +13,10 @@
   - HarvardX: *CS109x – Machine Learning and AI with Python*  
   - Amazon: *Programming with Java*
 
+- 💼 **Experience** -
+- Freelance Web Developer, Graphic Designer and Consultant
+- Senior STEM Examiner @ Anphaema International (IGCSE Physics & Chemistry)
+
 
 
 # Core Technologies
