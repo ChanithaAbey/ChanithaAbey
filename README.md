@@ -9,18 +9,14 @@
 
 # GitHub Stats
 ![](https://github-profile-trophy.vercel.app/?username=ChanithaAbey&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ChanithaAbey&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="440"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithaAbey&theme=dark&hide_border=true&layout=compact" width="490"/></td>
+  </tr>
+</table>
 
 
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ChanithaAbey&theme=dark&hide_border=true&include_all_commits=true&count_private=true" width="500"/>
-
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanithaAbey&theme=dark&hide_border=true&layout=compact" width="500"/>
-
-</div>
 # Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ChanithaAbey&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
