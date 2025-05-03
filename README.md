@@ -1,4 +1,4 @@
-<h1>Hello World! I'm Chanitha Abeygunawardena :D</h1>
+<h1>Hello World! I'm Chanitha Abeygunawardena</h1>
 
 > 16 y/o undergraduate • Olympiad Medalist • Software Engineer • STEM Educator
 
